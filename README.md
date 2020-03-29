@@ -7,6 +7,16 @@ Data analysis is a process of inspecting, cleansing, transforming and modeling d
 
 Data mining is a particular data analysis technique that focuses on statistical modeling and knowledge discovery for predictive rather than purely descriptive purposes, while business intelligence covers data analysis that relies heavily on aggregation, focusing mainly on business information. In statistical applications, data analysis can be divided into descriptive statistics, exploratory data analysis (EDA), and confirmatory data analysis (CDA). EDA focuses on discovering new features in the data while CDA focuses on confirming or falsifying existing hypotheses. Predictive analytics focuses on application of statistical models for predictive forecasting or classification, while text analytics applies statistical, linguistic, and structural techniques to extract and classify information from textual sources, a species of unstructured data. All of the above are varieties of data analysis.
 
+ Output:
+---------
+![](https://github.com/sujitmandal/Data-Analysis-with-Python/blob/master/output/example%203.jpg)
+
+![](https://github.com/sujitmandal/Data-Analysis-with-Python/blob/master/output/example%201.jpg)
+
+![](https://github.com/sujitmandal/Data-Analysis-with-Python/blob/master/output/example%20%203%20%20with%20three%20countries.jpg)
+
+![](https://github.com/sujitmandal/Data-Analysis-with-Python/blob/master/output/example%201%20with%20four%20countries.jpg)
+
  Project Topic's:
 ------------------
 
